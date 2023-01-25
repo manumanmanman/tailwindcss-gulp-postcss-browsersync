@@ -6,30 +6,6 @@
 	],
 	"settings": {
 
-		"liveSassCompile.settings.excludeList": [ // plutôt exclude sinon compile pas après modif partial https://github.com/ritwickdey/vscode-live-sass-compiler/issues/83#issuecomment-589920356
-			"**/wp-admin/**",
-			"**/wp-includes/**",
-			"**/wp-content/plugins/**", 
-		  ],
-
-
-		"liveSassCompile.settings.formats":[
-             
-            {
-                "format": "compressed",
-                "extensionName": ".css",
-                "savePath": "~/../css/"
-            }
-		]
-        
-
-    
-
-
-
-
-		
-
-		
+			
 	} // settings
 } // end
