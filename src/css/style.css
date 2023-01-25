@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: black;
+    color: white;
+
+    
+}
+
+ul {
+    background-color: aliceblue;
+    li {
+        color: blue;
+    }
+}
