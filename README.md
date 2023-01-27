@@ -1,1 +1,1 @@
-#TailwindCSS - Gulp - PostCSS - CSSnano - BrowserSync
+#TailwindCSS Tailwind Nesting - Gulp - PostCSS - CSSnano - BrowserSync
