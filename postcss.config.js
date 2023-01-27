@@ -1,8 +1,11 @@
+// not needed !
+
+
 module.exports = {
     plugins: [
-      require("tailwindcss/nesting"),
-      require("tailwindcss"),
-      require("autoprefixer"),
-    //   require("postcss-minify"),
+      // require("tailwindcss/nesting"),
+      // require("tailwindcss"),
+      // require("autoprefixer"),
+      //  require("postcss-minify"),
     ],
   };
